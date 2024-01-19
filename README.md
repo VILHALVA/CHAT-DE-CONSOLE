@@ -24,7 +24,7 @@ O bot recebe mensagens de texto dos usuários e responde com informações relac
 
 ## COMO USAR?
 1. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot na linha `4`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
+   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
 
 2. **Inicie o Bot:**
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e Converse.
