@@ -1,5 +1,5 @@
 # CHAT DE CONSOLE
-🤤É UM BOT DE BATE PAPO SOBRE TÓPICOS RELACIONADOS!
+🤤É UM BOT DO TELEGRAM DE BATE PAPO SOBRE TÓPICOS RELACIONADOS!
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-TELEGRAM%20BOT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT)
