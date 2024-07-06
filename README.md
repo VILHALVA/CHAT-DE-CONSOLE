@@ -37,6 +37,12 @@ O bot recebe mensagens de texto dos usuários e responde com informações relac
    
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e Converse.
 
-## SAIBA MAIS:
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
+* [VEJA A DOCUMENTAÇÃO](https://core.telegram.org/bots/api)
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO SUGERIDO](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
