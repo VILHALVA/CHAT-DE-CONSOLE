@@ -1,12 +1,12 @@
 import requests
-import time
 import json
 import os
 
 class TelegramBot:
     def __init__(self):
-        TOKEN  = "TOKEN AQUI"
+        from TOKEN import TOKEN 
         self.iURL = f"https://api.telegram.org/bot{TOKEN}/"
+        
     def Iniciar(self):
         iUPDATE_ID = None
         while True:
